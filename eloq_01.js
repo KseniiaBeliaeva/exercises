@@ -10,5 +10,5 @@
         return plusOne;
 }
 
-console.log(range(1, 10));
+console.log("Sum all the numbers between 2 numbers --> " + range(1, 10)); 
        
